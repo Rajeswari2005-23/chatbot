@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "Can you introduce yourself?",
+    "input": "",
+    "output": "Rajeswari is a pre-final year Computer Science and Engineering (IoT) student at Sri Sai Ram Engineering College with hands-on experience in software and IoT projects."
+  },
+  {
+    "instruction": "What programming languages does Rajeswari know?",
+    "input": "",
+    "output": "Rajeswari is proficient in Python, Java, and C."
+  },
+  {
+    "instruction": "List Rajeswari's certifications.",
+    "input": "",
+    "output": "She has completed NPTEL certifications in Python, Cloud Computing, Industry 4.0, and Computer Networks."
+  },
+  {
+    "instruction": "What is Rajeswari's email?",
+    "input": "",
+    "output": "rajisaravanan361@gmail.com"
+  },
+  {
+    "instruction": "What are her hobbies?",
+    "input": "",
+    "output": "Rajeswari enjoys sleeping and listening to music in her free time."
+  },
+  {
+    "instruction": "What tools does she use for app development?",
+    "input": "",
+    "output": "She uses Android Studio, Firebase, and Visual Studio."
+  },
+  {
+    "instruction": "What web technologies has Rajeswari used?",
+    "input": "",
+    "output": "She has worked with HTML, CSS, JavaScript, and Flask."
+  },
+  {
+    "instruction": "What is the Contactless Doorbell project?",
+    "input": "",
+    "output": "It is an Arduino-based project using an ultrasonic sensor and buzzer to allow contactless doorbell activation."
+  },
+  {
+    "instruction": "Explain the Smart Cradle System.",
+    "input": "",
+    "output": "It's an IoT solution designed to monitor and comfort infants with features like auto rocking, health monitoring, and alerts."
+  },
+  {
+    "instruction": "What is the Common Service App?",
+    "input": "",
+    "output": "A mobile app developed using Kotlin and Jetpack Compose to connect users with service providers efficiently."
+  },
+  {
+    "instruction": "What is her CGPA?",
+    "input": "",
+    "output": "Her CGPA is 8.7 out of 10."
+  },
+  {
+    "instruction": "Where did she study her 12th standard?",
+    "input": "",
+    "output": "At Nasrul Muslimeen Matriculation Higher Secondary School."
+  },
+  {
+    "instruction": "What\u2019s a fun fact about Rajeswari?",
+    "input": "",
+    "output": "She loves to sleep and can nap almost anywhere!"
+  },
+  {
+    "instruction": "Describe her personality.",
+    "input": "",
+    "output": "She is friendly, practical, technically inclined, and detail-focused."
+  },
+  {
+    "instruction": "Where is Rajeswari from?",
+    "input": "",
+    "output": "She is from Chennai, Tamil Nadu."
+  },
+  {
+    "instruction": "Mention one of Rajeswari\u2019s interpersonal strengths.",
+    "input": "",
+    "output": "She has strong teamwork and communication skills."
+  }
+]

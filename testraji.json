@@ -1,0 +1,253 @@
+[
+  {
+  "instruction": "Who is Rajeswari?",
+  "input": "Rajeswari is known for her academic background in Computer Science and Engineering with a specialization in IoT. She studies at Sri Sairam Engineering College and is interested in software and embedded systems.",
+  "output": "Rajeswari is a pre-final year Computer Science and Engineering (IoT) student at Sri Sairam Engineering College in Chennai, India. She is passionate about technology, software development, and embedded systems."
+  },
+
+  {
+    "instruction": "Can you introduce Rajeswari?",
+    "input": "This request is about a student named Rajeswari, who is pursuing engineering and has a focus on IoT.",
+    "output": "Rajeswari is a dedicated student of Computer Science and Engineering with a focus on IoT. She studies at Sri Sairam Engineering College and has a strong interest in smart systems and application development."
+  },
+  {
+    "instruction": "Tell me about Rajeswari.",
+    "input": "You are referring to Rajeswari, an engineering student from Chennai specializing in IoT and programming.",
+    "output": "Rajeswari is an ambitious engineering student from Chennai, specializing in IoT. She is skilled in Python, Java, and C, and enjoys working on innovative tech projects."
+  },
+  {
+    "instruction": "What is Rajeswari’s background?",
+    "input": "The question is about Rajeswari’s academic and geographic background.",
+    "output": "Rajeswari hails from Chennai and is pursuing her B.Tech in Computer Science and Engineering with a specialization in IoT at Sri Sairam Engineering College."
+  },
+  {
+    "instruction": "Can you describe who Rajeswari is?",
+    "input": "This question is about a student in the CSE (IoT) department at Sri Sairam Engineering College.",
+    "output": "Rajeswari is a student of CSE (IoT) at Sri Sairam Engineering College. She is known for her curiosity, discipline, and a strong passion for creating smart technology solutions."
+  },
+  {
+    "instruction": "Where does Rajeswari study?",
+    "input": "This is about Rajeswari’s place of education.",
+    "output": "Rajeswari studies at Sri Sairam Engineering College, located in Chennai, Tamil Nadu, India."
+  },
+  {
+    "instruction": "What is Rajeswari’s department?",
+    "input": "You are asking about Rajeswari's academic specialization.",
+    "output": "Rajeswari belongs to the Department of Computer Science and Engineering (IoT) at Sri Sairam Engineering College."
+  },
+  {
+    "instruction": "Which college is Rajeswari enrolled in?",
+    "input": "This refers to the academic institution where Rajeswari is currently studying.",
+    "output": "She is currently enrolled in Sri Sairam Engineering College, an autonomous institution affiliated with Anna University."
+  },
+  {
+    "instruction": "What programming languages does Rajeswari know?",
+    "input": "Rajeswari is experienced in writing code and developing software.",
+    "output": "Rajeswari is proficient in Python, Java, and C."
+  },
+  {
+    "instruction": "List Rajeswari’s technical skills.",
+    "input": "The request is about the tools, languages, and domains Rajeswari is proficient in.",
+    "output": "Rajeswari is skilled in Python, Java, C, IoT systems, embedded programming, and mobile application development."
+  },
+  {
+    "instruction": "Which tools does Rajeswari use?",
+    "input": "This refers to the development environments and platforms Rajeswari is comfortable with.",
+    "output": "She uses Visual Studio, Android Studio, Arduino IDE, and GitHub for her development and project work."
+  },
+  {
+    "instruction": "What are some projects done by Rajeswari?",
+    "input": "The question is about past academic or personal technical projects developed by Rajeswari.",
+    "output": "Rajeswari has worked on a smart expense tracking system for educational institutions and an IoT-based energy monitoring system."
+  },
+  {
+    "instruction": "Describe Rajeswari’s IoT project.",
+    "input": "This question is focused on an IoT project done by Rajeswari related to real-time energy monitoring.",
+    "output": "Rajeswari developed an IoT system that monitors energy usage in real-time and helps reduce wastage through smart sensors."
+  },
+  {
+    "instruction": "Has Rajeswari done any mobile app projects?",
+    "input": "You are asking about mobile applications built by Rajeswari using Android Studio.",
+    "output": "Yes, she built a mobile application for managing hostel expenses and budgeting using Android Studio."
+  },
+  {
+    "instruction": "Describe Rajeswari’s personality.",
+    "input": "This refers to the personality traits of Rajeswari as observed by peers and mentors.",
+    "output": "Rajeswari is friendly, practical, hard-working, and passionate about learning new technologies."
+  },
+  {
+    "instruction": "What are Rajeswari’s strengths?",
+    "input": "You want to know the core personal and technical strengths of Rajeswari.",
+    "output": "Her strengths include logical thinking, adaptability, teamwork, and a strong grasp of technical concepts."
+  },
+  {
+    "instruction": "Is Rajeswari a team player?",
+    "input": "",
+    "output": "Yes, Rajeswari actively collaborates on team projects and is appreciated for her communication and coordination skills."
+  },
+  {
+    "instruction": "What are Rajeswari\u2019s interests?",
+    "input": "",
+    "output": "She is interested in IoT development, AI integration, embedded systems, and creating practical tech solutions."
+  },
+  {
+    "instruction": "What are Rajeswari\u2019s career goals?",
+    "input": "",
+    "output": "Rajeswari aims to become a skilled engineer specializing in IoT and smart system development, contributing to meaningful real-world innovations."
+  },
+  {
+    "instruction": "Does Rajeswari want to pursue higher studies?",
+    "input": "",
+    "output": "Yes, she is considering a master\u2019s degree in Embedded Systems or AI-IoT convergence."
+  },
+  {
+    "instruction": "Where is Rajeswari from?",
+    "input": "",
+    "output": "Rajeswari is from Chennai, the capital city of Tamil Nadu, India."
+  },
+  {
+    "instruction": "Which city does Rajeswari belong to?",
+    "input": "",
+    "output": "She belongs to Chennai and is currently studying there as well."
+  },
+  {
+    "instruction": "Is Rajeswari interested in research?",
+    "input": "",
+    "output": "Yes, she is interested in research related to smart devices, IoT security, and energy-efficient systems."
+  },
+  {
+    "instruction": "What kind of engineering does Rajeswari study?",
+    "input": "",
+    "output": "She studies Computer Science and Engineering with a specialization in IoT."
+  },
+  {
+    "instruction": "What kind of student is Rajeswari?",
+    "input": "",
+    "output": "Rajeswari is an attentive, responsible, and creative student with a deep interest in real-world problem solving."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (1)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (2)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (3)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (4)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (5)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (6)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (7)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (8)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (9)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (10)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (11)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (12)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (13)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (14)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (15)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (16)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (17)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (18)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (19)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (20)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (21)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (22)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (23)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (24)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  },
+  {
+    "instruction": "Can you tell me something about Rajeswari? (25)",
+    "input": "",
+    "output": "Rajeswari is a passionate and driven engineering student who works on software and hardware integration projects using Python and IoT tools."
+  }
+]

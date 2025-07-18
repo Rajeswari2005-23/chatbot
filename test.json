@@ -1,0 +1,370 @@
+[
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 55 mg/dL, HbA1c: 4.9%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 68 mg/dL, HbA1c: 5.0%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 72 mg/dL, HbA1c: 5.1%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 81 mg/dL, HbA1c: 5.2%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 89 mg/dL, HbA1c: 5.0%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 90 mg/dL, HbA1c: 5.3%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 93 mg/dL, HbA1c: 5.1%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 95 mg/dL, HbA1c: 5.2%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 97 mg/dL, HbA1c: 5.4%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 99 mg/dL, HbA1c: 5.3%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+
+  
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 100 mg/dL, HbA1c: 5.5%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 102 mg/dL, HbA1c: 5.6%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 103 mg/dL, HbA1c: 5.5%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 105 mg/dL, HbA1c: 5.7%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 106 mg/dL, HbA1c: 5.8%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 107 mg/dL, HbA1c: 5.7%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 108 mg/dL, HbA1c: 5.9%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 109 mg/dL, HbA1c: 5.6%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 110 mg/dL, HbA1c: 5.9%",
+    "output": { "decision": "Approved", "table_rating": "Standard" }
+  },
+
+  
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 111 mg/dL, HbA1c: 6.0%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 113 mg/dL, HbA1c: 6.1%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 115 mg/dL, HbA1c: 6.2%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 117 mg/dL, HbA1c: 6.0%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 119 mg/dL, HbA1c: 6.3%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 120 mg/dL, HbA1c: 6.4%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 121 mg/dL, HbA1c: 6.1%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 122 mg/dL, HbA1c: 6.2%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 124 mg/dL, HbA1c: 6.3%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 125 mg/dL, HbA1c: 6.4%",
+    "output": { "decision": "Rated", "table_rating": "Table A" }
+  },
+
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 126 mg/dL, HbA1c: 6.5%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 128 mg/dL, HbA1c: 6.8%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 130 mg/dL, HbA1c: 6.9%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 132 mg/dL, HbA1c: 6.9%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 133 mg/dL, HbA1c: 7.0%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 134 mg/dL, HbA1c: 7.0%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 135 mg/dL, HbA1c: 7.0%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 137 mg/dL, HbA1c: 6.8%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 138 mg/dL, HbA1c: 6.9%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 139 mg/dL, HbA1c: 7.1%",
+    "output": { "decision": "Rated", "table_rating": "Table C" }
+  },
+
+  
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 140 mg/dL, HbA1c: 7.3%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 145 mg/dL, HbA1c: 7.4%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 150 mg/dL, HbA1c: 7.5%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 155 mg/dL, HbA1c: 7.6%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 160 mg/dL, HbA1c: 7.7%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 165 mg/dL, HbA1c: 7.8%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 170 mg/dL, HbA1c: 8.0%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 175 mg/dL, HbA1c: 8.2%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 179 mg/dL, HbA1c: 8.5%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 180 mg/dL, HbA1c: 8.9%",
+    "output": { "decision": "Rated", "table_rating": "Table E" }
+  },
+
+  
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 181 mg/dL, HbA1c: 9.0%",
+    "output": { "decision": "Declined", "table_rating": "None" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 185 mg/dL, HbA1c: 9.2%",
+    "output": { "decision": "Declined", "table_rating": "None" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 190 mg/dL, HbA1c: 9.3%",
+    "output": { "decision": "Declined", "table_rating": "None" }
+  },
+  {
+    "instruction": "What is the underwriting decision and table rating?",
+    "input": "FBS: 195 mg/dL, HbA1c: 9.5%",
+    "output": { "decision": "Declined", "table_rating": "None" }
+  },
+
+  {
+    "instruction": "What is the underwriting interpretation for Fasting Blood Sugar (FBS) < 100 mg/dL?",
+    "input": "FBS < 100 mg/dL",
+    "output": "Interpretation: Normal."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for Fasting Blood Sugar (FBS) between 100–125 mg/dL?",
+    "input": "FBS 100–125 mg/dL",
+    "output": "Interpretation: Impaired Fasting Glucose / Pre-diabetes."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for Fasting Blood Sugar (FBS) ≥126 mg/dL on two occasions?",
+    "input": "FBS ≥126 mg/dL (on two separate occasions)",
+    "output": "Interpretation: Diabetic Range."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for Random FBS ≥200 mg/dL with symptoms?",
+    "input": "Random FBS ≥200 mg/dL with symptoms",
+    "output": "Interpretation: Diabetes."
+  },
+  {
+    "instruction": "What factors are considered in underwriting interpretation of diabetes?",
+    "input": "FBS evaluation context",
+    "output": "Interpretation: Age at onset, Treatment (lifestyle, oral meds, insulin), HbA1c levels, Presence of complications (neuropathy, nephropathy, retinopathy), Co-morbidities (HTN, Obesity, Lipids)."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for HbA1c < 5.7%?",
+    "input": "HbA1c < 5.7%",
+    "output": "Interpretation: Normal."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for HbA1c between 5.7–6.4%?",
+    "input": "HbA1c 5.7–6.4%",
+    "output": "Interpretation: Pre-diabetic."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for HbA1c between 6.5–7.0%?",
+    "input": "HbA1c 6.5–7.0%",
+    "output": "Interpretation: Mild Diabetes."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for HbA1c between 7.1–8.5%?",
+    "input": "HbA1c 7.1–8.5%",
+    "output": "Interpretation: Moderate Diabetes."
+  },
+  {
+    "instruction": "What is the underwriting interpretation for HbA1c > 8.5%?",
+    "input": "HbA1c > 8.5%",
+    "output": "Interpretation: Poor Control."
+  },
+  {
+    "instruction": "What is the underwriting interpretation of persistently high HbA1c despite treatment?",
+    "input": "Persistently high HbA1c despite treatment",
+    "output": "Interpretation: High risk."
+  },
+  {
+    "instruction": "What is the underwriting interpretation of a recent diabetes diagnosis with HbA1c > 9%?",
+    "input": "Recent diagnosis with HbA1c > 9%",
+    "output": "Interpretation: High anti-selection concern."
+  },
+
+  {
+    "instruction": "Why was the application approved?",
+    "input": "FBS: 110 mg/dL, HbA1c: 5.9%",
+    "output": "All parameters within acceptable limits. No significant risks noted."
+  },
+  {
+    "instruction": "Why was the decision 'Approved'?",
+    "input": "FBS: 108 mg/dL, HbA1c: 5.8%",
+    "output": "All parameters within acceptable limits. No significant risks noted."
+  },
+  {
+    "instruction": "Why did the application receive a table rating?",
+    "input": "FBS: 117 mg/dL, HbA1c: 6.0%",
+    "output": "Elevation in blood sugar. Offered with table rating."
+  },
+  {
+    "instruction": "Why is the underwriting decision rated?",
+    "input": "FBS: 120 mg/dL, HbA1c: 6.3%",
+    "output": "Elevation in blood sugar. Offered with table rating."
+  },
+  {
+    "instruction": "Why was the application declined?",
+    "input": "FBS: 160 mg/dL, HbA1c: 9.2%",
+    "output": "Uncontrolled diabetes with complications. Application declined."
+  },
+  {
+    "instruction": "Why is the decision 'Declined'?",
+    "input": "FBS: 170 mg/dL, HbA1c: 9.5%",
+    "output": "Uncontrolled diabetes with complications. Application declined."
+  }
+
+
+]

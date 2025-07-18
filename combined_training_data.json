@@ -1,0 +1,117 @@
+[
+  {
+    "instruction": "What is the name of the applicant for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Full Name: Julie Barber; Date of Birth: 1985-03-20; Gender: Female; Occupation: Accountant; Employer Name: Employer 1",
+    "output": "Julie Barber"
+  },
+  {
+    "instruction": "What is the applicant's occupation for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Full Name: Julie Barber; Date of Birth: 1985-03-20; Gender: Female; Occupation: Accountant; Employer Name: Employer 1",
+    "output": "Accountant"
+  },
+  {
+    "instruction": "What is the sum assured for the application number APP-10001?",
+    "input": "Application No: APP-10001; Plan Name: ULIP; Sum Assured: 4759911; Policy Term: 30 years; Premium Payment Term: 30 years; Payment Mode: Quarterly",
+    "output": "4759911"
+  },
+  {
+    "instruction": "What is the nominee's name for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Nominee Name: Madison Lee DDS; Nominee Relationship: Mother; Plan Name: ULIP",
+    "output": "Madison Lee DDS"
+  },
+  {
+    "instruction": "What is the policy term in years for the application APP-10001?",
+    "input": "Application No: APP-10001; Plan Name: ULIP; Sum Assured: 4759911; Policy Term: 30; Premium Payment Term: 30; Payment Mode: Quarterly",
+    "output": "30"
+  },
+  {
+    "instruction": "What is the payment mode for the insurance policy in Application No: APP-10001?",
+    "input": "Application No: APP-10001; Payment Mode: Quarterly; Premium Payment Term: 30 years; Policy Term: 30 years",
+    "output": "Quarterly"
+  },
+  {
+    "instruction": "What is the applicant's age for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Full Name: Julie Barber; Date of Birth: 1985-03-20; Current Age: 40; Gender: Female",
+    "output": "40"
+  },
+  {
+    "instruction": "What is the applicant's height in cm for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Height: 150 cm; Weight: 54 kg; BMI: 24.0",
+    "output": "150"
+  },
+  {
+    "instruction": "Is the applicant a smoker in Application No: APP-10001?",
+    "input": "Application No: APP-10001; Smoking: Non-Smoker; Alcohol: Occasionally; Substance Abuse: No",
+    "output": "Non-Smoker"
+  },
+  {
+    "instruction": "What is the underwriting decision for Application No: APP-10001?",
+    "input": "Application No: APP-10001; Underwriting Notes: All parameters within acceptable limits; Decision: Approved; Table Rating: Standard",
+    "output": "Approved"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 95 mg/dL?",
+    "input": "FBS: 95 mg/dL",
+    "output": "Interpretation: Normal; Rating Recommendation: Standard"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 105 mg/dL?",
+    "input": "FBS: 105 mg/dL",
+    "output": "Interpretation: Slightly Elevated; Rating Recommendation: Standard"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 120 mg/dL?",
+    "input": "FBS: 120 mg/dL",
+    "output": "Interpretation: Pre-diabetic; Rating Recommendation: Table A (25%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 135 mg/dL?",
+    "input": "FBS: 135 mg/dL",
+    "output": "Interpretation: Mild Diabetes; Rating Recommendation: Table C (75%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 160 mg/dL?",
+    "input": "FBS: 160 mg/dL",
+    "output": "Interpretation: Moderate Diabetes; Rating Recommendation: Table E (125%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for FBS value 200 mg/dL?",
+    "input": "FBS: 200 mg/dL",
+    "output": "Interpretation: Uncontrolled Diabetes; Rating Recommendation: Postpone/Decline"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 5.6%?",
+    "input": "HbA1c: 5.6%",
+    "output": "Interpretation: Normal; Rating Recommendation: Preferred"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 5.9%?",
+    "input": "HbA1c: 5.9%",
+    "output": "Interpretation: Slightly Elevated; Rating Recommendation: Standard"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 6.3%?",
+    "input": "HbA1c: 6.3%",
+    "output": "Interpretation: Pre-diabetic; Rating Recommendation: Table A (25%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 6.8%?",
+    "input": "HbA1c: 6.8%",
+    "output": "Interpretation: Controlled Diabetes; Rating Recommendation: Table C (75%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 8.0%?",
+    "input": "HbA1c: 8.0%",
+    "output": "Interpretation: Moderate Diabetes; Rating Recommendation: Table E (125%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 9.2%?",
+    "input": "HbA1c: 9.2%",
+    "output": "Interpretation: Poor Control; Rating Recommendation: Table G (175%)"
+  },
+  {
+    "instruction": "What is the interpretation and rating for HbA1c value 10.1%?",
+    "input": "HbA1c: 10.1%",
+    "output": "Interpretation: Uncontrolled Diabetes; Rating Recommendation: Postpone/Decline"
+  }
+]
